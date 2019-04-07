@@ -43,4 +43,4 @@ blist.reverse()
 sb=[]
 for i in range(len(blist)):
     sb.append(str(blist[i]))
-print(' '.join(sb))
+print(' '.join(sb)) 

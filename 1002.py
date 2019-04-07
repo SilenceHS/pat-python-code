@@ -20,4 +20,4 @@ for i in range(len(a)):
 p=[]
 for k in range(len(str(all))):
     p.append(adict[str(all)[k]])
-print(' '.join(p))
+print(' '.join(p)) 

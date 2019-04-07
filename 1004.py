@@ -37,4 +37,4 @@ alist=[]
 for i in sorted(score_name_dict):
     alist.append(i)
 print(score_name_dict[alist[n-1]],name_id_dict[score_name_dict[alist[n-1]]])
-print(score_name_dict[alist[0]],name_id_dict[score_name_dict[alist[0]]])
+print(score_name_dict[alist[0]],name_id_dict[score_name_dict[alist[0]]]) 

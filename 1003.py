@@ -54,4 +54,4 @@ for i in range(n):
     if len(left)*len(mid)==len(right):
         print("YES")
     else:
-        print("NO")
+        print("NO") 
